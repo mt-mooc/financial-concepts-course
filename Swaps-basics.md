@@ -58,3 +58,19 @@ There are several types of swaps, each with unique differences.
 </tr>
 </table>
 
+
+<h3> The International Swaps and Derivatives Association (ISDA) </h3>
+
+<p>
+The International Swaps and Derivatives Association (ISDA) is the leading global trade association representing participants in the privately negotiated derivatives sector, a business which includes interest rate, currency, commodity and equity swaps, as well as related products such as caps, collars, floors and swaptions.
+</p>
+<p>
+ISDA was chartered in 1985 and today numbers over 850 member institutions from around the world. These members include most of the world's major institutions who deal in,  as well as leading end-users of, privately negotiated derivatives.
+</p>
+
+
+<p>
+<u>Note</u>: 
+The primary function of the ISDA is to promote practices conducive to the efficient conduct of the business of its members in swaps and other derivates, including the development and maintenance of standard documentation for derivatives and to foster high standards of commercial honor and business conduct among its members.
+</p>
+
