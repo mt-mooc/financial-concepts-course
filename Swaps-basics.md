@@ -74,3 +74,36 @@ ISDA was chartered in 1985 and today numbers over 850 member institutions from a
 The primary function of the ISDA is to promote practices conducive to the efficient conduct of the business of its members in swaps and other derivates, including the development and maintenance of standard documentation for derivatives and to foster high standards of commercial honor and business conduct among its members.
 </p>
 
+<h3>OTC derivatives reform overview</h3>
+
+<p>
+There has been some changes due to OTC reform. Many products - such as certain single name and index CDS positions and certain vanilla IRS positions - are now being centrally-cleared.
+</p>
+
+<h4>Key features:</h4>
+<ul>
+<li>Mandatory clearing, electronic trading and reporting</li>
+<li>Increased regulatory oversight</li>
+<li>Creation of new designations for market participants</li>
+<li>Increased margin and capital requirements</li>
+<li>Enhanced governance/compliance structures for market particpants</li>
+</ul>
+
+<h4>Key considerations:</h4>
+<ul>
+<li>Higher margining and collateral requirements</li>
+<li>Minimum capital thresholds</li>
+<li>Diminished liquidity of derivative markets</li>
+<li>Registration and substantial compliance requirements</li>
+<li>Impact on business model, legal organizational structure and business processes/IT</li>
+<li>Adequacy of reporting, models and data quality</li>
+</ul>
+
+<h4>Implementation challenges:</h4>
+<ul>
+<li>Rule-making still in progress with rules in various stages of approval</li>
+<li>Overlapping regulation and requirements (SEC vs. CFTC)</li>
+<li>Significant systems, process and behavioral changes</li>
+<li>Legal entity rationalization and attendant "repapering" of trades</li>
+<li>Pending International OTC Regulatory reform legislations (MIFiD II, EMIR and Asian regulations)</li>
+</ul>
